@@ -1,0 +1,6 @@
+{
+    "AccountEndpoint": "https://<account>.documents.azure.com:443/",
+    "AccountKey": "<key>",
+    "DatabaseName": "RUsTestsDb",
+    "CollectionName": "RUsTestsCol"
+}

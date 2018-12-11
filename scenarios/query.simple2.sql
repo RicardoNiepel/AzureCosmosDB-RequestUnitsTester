@@ -1,0 +1,1 @@
+SELECT * FROM Coll c WHERE c.id = 'd123'

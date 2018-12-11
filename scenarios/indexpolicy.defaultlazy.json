@@ -1,0 +1,22 @@
+{
+    "indexingMode": "lazy",
+    "automatic": true,
+    "includedPaths": [
+        {
+            "path": "/*",
+            "indexes": [
+                {
+                    "kind": "Range",
+                    "dataType": "Number",
+                    "precision": -1
+                },
+                {
+                    "kind": "Hash",
+                    "dataType": "String",
+                    "precision": 3
+                }
+            ]
+        }
+    ],
+    "excludedPaths": []
+}

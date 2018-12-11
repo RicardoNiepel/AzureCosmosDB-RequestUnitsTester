@@ -1,0 +1,153 @@
+{
+    "id": "5c0f84d02915a88bf5626154",
+    "index": 0,
+    "guid": "73982a97-26e1-49f5-9783-b9679c10c367",
+    "isActive": false,
+    "balance": "$3,412.24",
+    "picture": "http://placehold.it/32x32",
+    "age": 36,
+    "eyeColor": "green",
+    "name": {
+        "first": "Brandy",
+        "last": "Hays"
+    },
+    "company": "SUPPORTAL",
+    "contact": {
+        "email": "brandy.hays@supportal.tv",
+        "phone": "+1 (836) 409-2811",
+        "address": "531 Arlington Avenue, Kennedyville, North Dakota, 8886"
+    },
+    "about": "Est Lorem eiusmod nulla qui ipsum proident qui ad commodo Lorem nulla. Anim consequat aliqua velit id consectetur cillum quis non anim. Esse consectetur culpa commodo cillum consequat et nostrud dolor elit cillum esse voluptate consectetur dolore. Ipsum laborum magna magna amet eu exercitation ad aliqua minim. Esse exercitation id veniam adipisicing Lorem ex aliqua consequat elit quis quis elit occaecat velit.",
+    "registered": "Friday, October 5, 2018 3:45 PM",
+    "location": {
+        "latitude": "-66.639573",
+        "longitude": "-68.701432"
+    },
+    "tags": [
+        "elit",
+        "Lorem",
+        "est",
+        "ea",
+        "in",
+        "aute",
+        "eu",
+        "esse",
+        "id",
+        "commodo",
+        "amet",
+        "sint",
+        "sint",
+        "tempor",
+        "fugiat",
+        "eu",
+        "sint",
+        "amet",
+        "ullamco",
+        "in"
+    ],
+    "range": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+    ],
+    "friends": [{
+            "id": 0,
+            "fullname": "Dominique Jenkins"
+        },
+        {
+            "id": 1,
+            "fullname": "Hardin Rosario"
+        },
+        {
+            "id": 2,
+            "fullname": "Wells Wise"
+        },
+        {
+            "id": 3,
+            "fullname": "Beryl Griffin"
+        },
+        {
+            "id": 4,
+            "fullname": "Wong Bartlett"
+        },
+        {
+            "id": 5,
+            "fullname": "Natalie Hoover"
+        },
+        {
+            "id": 6,
+            "fullname": "Vivian Carter"
+        },
+        {
+            "id": 7,
+            "fullname": "Forbes Welch"
+        },
+        {
+            "id": 8,
+            "fullname": "Carey Berry"
+        },
+        {
+            "id": 9,
+            "fullname": "Snyder Farmer"
+        },
+        {
+            "id": 10,
+            "fullname": "Kay Hooper"
+        },
+        {
+            "id": 11,
+            "fullname": "Coffey Cooley"
+        },
+        {
+            "id": 12,
+            "fullname": "Gomez Richards"
+        },
+        {
+            "id": 13,
+            "fullname": "Leanna Compton"
+        },
+        {
+            "id": 14,
+            "fullname": "Roseann Lawson"
+        },
+        {
+            "id": 15,
+            "fullname": "Webb Riddle"
+        },
+        {
+            "id": 16,
+            "fullname": "Miranda Mclaughlin"
+        },
+        {
+            "id": 17,
+            "fullname": "Lacey Short"
+        },
+        {
+            "id": 18,
+            "fullname": "Pollard Thornton"
+        },
+        {
+            "id": 19,
+            "fullname": "Holman Gomez"
+        }
+    ],
+    "greeting": "Hello, Brandy! You have 5 unread messages.",
+    "favoriteFruit": "banana"
+}
