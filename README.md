@@ -2,6 +2,8 @@
 
 Sample console application for getting real data about how many request units are consumed.
 
+More details and documentation can be found at [How to correctly calculate the Request Units in Azure Cosmos DB](https://azure-development.com/2018/12/11/calculating-request-units-in-azure-cosmos-db/);
+
 ## Getting started
 
 1. define documents to test
